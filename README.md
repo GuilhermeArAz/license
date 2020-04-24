@@ -1,0 +1,2 @@
+# license
+ licenças de software
